@@ -99,6 +99,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+* [Top 50 Angularjs MCQ Interview Questions Quizack](https://quizack.com/skill-assessment/angular-js)
+* 
 
 ### Angular
 
